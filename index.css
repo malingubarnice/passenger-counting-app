@@ -1,0 +1,69 @@
+/* styling the background*/
+body{
+    background-image: url("backgroundpassenger.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    height: 100vh;
+    font-weight: bold;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*styling the h1 elements*/
+#heading1-el{
+    font-size: 50px;
+    margin-bottom: 60px;
+    color: black;
+    text-align: center;
+}
+
+#heading2-el{
+    font-size: 40px;
+    margin-bottom: 100px;
+    color: black;
+    text-align: center;
+    
+}
+
+#paragraph1-el{
+    font-size: 40px;
+    color: black;
+
+}
+
+#paragraph2-el{
+    font-size: 45px;
+}
+
+/*styling the p element*/
+p{
+    font-size: 30px;
+}
+
+/*styling the buttons*/
+button{
+    color: rgb(10, 10, 10);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 200px;
+    background: plum;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+
+    
